@@ -29,4 +29,6 @@ Steps to Test a game:
 
 NOTE:  
 ***Please do not uninstall the game for 2 weeks***  
+***Please do not click on "Remove Ads" or the banner ads within the game***  
+***No information regarding the user is collected other than ad-mob metrics (roughly how many times a banner ad was pressed)***  
 
