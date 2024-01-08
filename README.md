@@ -2,12 +2,15 @@
 Guide for Android testers.
 
 
-Games available for testing:
-  Planet Pop:
-  https://groups.google.com/g/test-planet-pop
+Games available for testing:  
 
-  Dodge Bit:
-  https://groups.google.com/g/test-dodge-bit
+  Planet Pop:  
+  https://groups.google.com/g/test-planet-pop  
+  
+
+  Dodge Bit:  
+  https://groups.google.com/g/test-dodge-bit  
+  
 
 
 What you need:
