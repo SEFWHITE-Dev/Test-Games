@@ -14,8 +14,9 @@ Games available for testing:
 
 
 What you need:
-1) Google Account signed into an Android device.
-2) Android device using Android 10 or above
+1) PC to open this link on
+2) Google Account signed into an Android device.
+3) Android device using Android 10 or above
    
 
 Steps to Test a game:
