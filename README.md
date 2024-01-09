@@ -10,6 +10,7 @@ Guide for Android testers.
   Dodge Bit:  
   https://groups.google.com/g/test-dodge-bit  
   
+
   
 **Play Store Links:**  
   
@@ -21,11 +22,13 @@ Guide for Android testers.
   https://play.google.com/apps/testing/org.SEFWhite.DodgeBit  
   https://play.google.com/store/apps/details?id=org.SEFWhite.DodgeBit  
   
+
   
 **What you need:**  
 1) Google Account (**gmail**) signed into your current **Android device**.
 2) Android device using Android 10 or above
    
+
   
 **Steps to Test a game:**  
 1) On your device, Click on the above links to join the appropriate Google Group for Testers
@@ -36,6 +39,7 @@ Guide for Android testers.
 6) Wait for the game to automatically install
 7) Open the game and keep on your device for 2 weeks
   
+
   
 NOTE:  
 ***Please do not uninstall the game for 2 weeks***  
