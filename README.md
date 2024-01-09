@@ -20,7 +20,7 @@ What you need:
    
 
 Steps to Test a game:
-1) Click on the above links to join the appropriate Google Group for Testers
+1) On your PC, Click on the above links to join the appropriate Google Group for Testers
 2) Click on "Join Group"
 3) Click "How to test the game..."
 4) Click on the link which takes you to the Play Store
