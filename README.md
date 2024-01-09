@@ -12,7 +12,7 @@ Guide for Android testers.
   
   
 **Play Store Links:**  
-
+  
   Planet Pop:  
   https://play.google.com/apps/testing/org.SEFWhite.PlanetPop  
   https://play.google.com/store/apps/details?id=org.SEFWhite.PlanetPop  
@@ -20,14 +20,14 @@ Guide for Android testers.
   Dodge Bit:  
   https://play.google.com/apps/testing/org.SEFWhite.DodgeBit  
   https://play.google.com/store/apps/details?id=org.SEFWhite.DodgeBit  
-
-
-**What you need:**
+  
+  
+**What you need:**  
 1) Google Account (**gmail**) signed into your current **Android device**.
 2) Android device using Android 10 or above
    
-
-**Steps to Test a game:**
+  
+**Steps to Test a game:**  
 1) On your device, Click on the above links to join the appropriate Google Group for Testers
 2) Click on "Join Group"
 3) Click "How to test the game..." or "Test "GameTitle"..." Conversation
@@ -35,8 +35,8 @@ Guide for Android testers.
 5) Click "Install on device" and select your Android device to download the game on
 6) Wait for the game to automatically install
 7) Open the game and keep on your device for 2 weeks
-
-
+  
+  
 NOTE:  
 ***Please do not uninstall the game for 2 weeks***  
 ***Please do not click on "Remove Ads" or the banner ads within the game***  
