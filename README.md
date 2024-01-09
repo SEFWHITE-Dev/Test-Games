@@ -31,7 +31,7 @@ Guide for Android testers.
 
   
 **Steps to Test a game:**  
-1) On your device, Click on the above links to join the appropriate Google Group for Testers
+1) On your PC or device, Click on the above links to join the appropriate Google Group for Testers
 2) Click on "Join Group"
 3) Click "How to test the game..." or "Test "GameTitle"..." Conversation
 4) Click on the links which takes you to the Play Store (if one link doesn't work try the other)
