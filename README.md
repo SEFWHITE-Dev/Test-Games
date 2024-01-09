@@ -2,7 +2,7 @@
 Guide for Android testers.
 
 
-Google Groups for testing:  
+**Google Groups for testing:**  
   Planet Pop:  
   https://groups.google.com/g/test-planet-pop  
   
@@ -10,7 +10,7 @@ Google Groups for testing:
   https://groups.google.com/g/test-dodge-bit  
 
 
-Play Store Links:
+**Play Store Links:**
 
   Planet Pop:  
   https://play.google.com/apps/testing/org.SEFWhite.PlanetPop  
@@ -21,12 +21,12 @@ Play Store Links:
   https://play.google.com/store/apps/details?id=org.SEFWhite.DodgeBit  
 
 
-What you need:
-1) Google Account (gmail) signed into your current Android device.
+**What you need:**
+1) Google Account (**gmail**) signed into your current **Android device**.
 2) Android device using Android 10 or above
    
 
-Steps to Test a game:
+**Steps to Test a game:**
 1) On your device, Click on the above links to join the appropriate Google Group for Testers
 2) Click on "Join Group"
 3) Click "How to test the game..." or "Test "GameTitle"..." Conversation
