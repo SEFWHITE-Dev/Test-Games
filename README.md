@@ -3,14 +3,15 @@ Guide for Android testers.
 
 
 **Google Groups for testing:**  
+
   Planet Pop:  
   https://groups.google.com/g/test-planet-pop  
   
   Dodge Bit:  
   https://groups.google.com/g/test-dodge-bit  
-
-
-**Play Store Links:**
+  
+  
+**Play Store Links:**  
 
   Planet Pop:  
   https://play.google.com/apps/testing/org.SEFWhite.PlanetPop  
