@@ -2,6 +2,8 @@
 Guide for Android testers. 日本語版↓↓↓
 <br/>
 
+Step by step Image Guide [HERE](https://github.com/SEFWHITE-Dev/Test-Games/blob/main/Instructions.md)
+
 **Google Groups for testing:**  
 
   Planet Pop:  
